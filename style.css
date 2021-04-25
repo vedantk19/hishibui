@@ -131,6 +131,77 @@ h3 {
   width: 100%;
 }
 
+.insta-link {
+  text-decoration: none;
+  color: #fff;
+  font-style: italic;
+}
+
+.snap:hover {
+  transform: scale(1.03);
+  transition: all 0.2s ease;
+}
+
+/* soundcloud section */
+
+.soundcloudplayer {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+/* contact me */
+
+.content-4 {
+  background-color: #03131c;
+  color: white;
+  padding-bottom: 20px;
+}
+
+.vedant {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  padding-top: 40px;
+  padding: 20px;
+  width: 40%;
+}
+
+#info {
+  padding-top: 10px;
+}
+
+/* footer */
+.footer {
+  background-color: #03131c;
+}
+
+.socialicon {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+}
+
+.socials {
+  padding: 10px;
+  color: slategray;
+  font-size: large;
+}
+
+.socials:hover {
+  transform: scale(1.02);
+  transition: all 0.2s ease;
+}
+
+.copyright {
+  text-align: center;
+  margin-left: 5px;
+  padding-bottom: 10px;
+  color: cornsilk;
+  font-size: small;
+  opacity: 0.5;
+}
+
 /* hr */
 .dots {
   margin: auto;
